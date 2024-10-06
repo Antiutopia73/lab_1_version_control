@@ -1,2 +1,2 @@
 # lab_1_version_control
-lab1
+Проект "Inheritance" з курсу CS50
